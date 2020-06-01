@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: toolbox
+Version: 0.1
+Summary: AIBS Python Hardware Toolbox
+Home-page: http://stash.corp.alleninstitute.org/projects/ENG/repos/toolbox/browse
+Author: derricw
+Author-email: derricw@alleninstitute.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: cv2
+Requires: numpy
+Requires: pymba
+Requires: PyDAQmx
